@@ -990,34 +990,27 @@ Dart: 3.11.1
 
 ---
 
-# 📸 Screenshots
-
-Screenshots can be added to this section after uploading them to the repository.
+## 📸 Screenshots
 
 ### Application Screens
 
-```text
-Coming Soon / Add screenshots here
-```
+#### 1. Splash Screen
+![Splash Screen](screenshots/splash.png)
 
-Recommended screenshots:
-
-1. Splash Screen
-2. Home/Review Input Screen
-3. Sentiment Result Screen
-4. Aspect Analysis
-5. Review History
-6. Analytics Dashboard
-
-Example Markdown:
-
-```markdown
+#### 2. Home / Review Input Screen
 ![Home Screen](screenshots/home.png)
-![Result Screen](screenshots/result.png)
-![History Screen](screenshots/history.png)
-![Analytics Screen](screenshots/analytics.png)
-```
 
+#### 3. Sentiment Analysis Result
+![Sentiment Analysis Result](screenshots/result.png)
+
+#### 4. Aspect-Based Sentiment Analysis
+![Aspect-Based Sentiment Analysis](screenshots/aspect-analysis.png)
+
+#### 5. Review History
+![Review History](screenshots/history.png)
+
+#### 6. Analytics Dashboard
+![Analytics Dashboard](screenshots/analytics.png)
 ---
 
 # 🎓 Learning Outcomes
