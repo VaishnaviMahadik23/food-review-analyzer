@@ -1116,7 +1116,7 @@ When deploying the application with real customer data, appropriate privacy, sec
 * **Om Vijay Mane**
 * **Omkar Mangesh Matkar**
 
-**B.Tech. – Information Technology**
+* **B.Tech. – Information Technology Students**
 **Sanjivani College of Engineering, Kopargaon**
 
 ---
